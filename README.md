@@ -5,6 +5,6 @@
 5 - 
 6 - 
 7 - 
-8 - 
+8 - enum, pointers, vectors
 9 - file manipulation
 10 - 
