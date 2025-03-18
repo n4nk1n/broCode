@@ -4,7 +4,7 @@
 4 - 
 5 - 
 6 - 
-7 - 
+7 - array of structs
 8 - enum, pointers, vectors
 9 - file manipulation
 10 - 
