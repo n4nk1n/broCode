@@ -1,5 +1,5 @@
 1 - 
-2 - 
+2 - variable types\
 3 - fgets() function\
 4 - maths functions\
 5 - ternary operator, string functions\
